@@ -1,4 +1,4 @@
-# 📊 Central Asia Stunting Initiative (CASI) — Data Analysis
+ # 📊 Central Asia Stunting Initiative (CASI) — Data Analysis
 
 > A comprehensive data cleaning and analysis project on child and maternal nutrition outcomes,
 > conducted in collaboration with **Aga Khan University (AKU)**.
@@ -79,6 +79,4 @@ monitoring stunting, malnutrition, and recovery outcomes in children under five.
 
 ---
 
-## 📁 Repository Structure 
-
- 
+## 📁 Repository Structure
