@@ -1,4 +1,4 @@
- # 📊 Central Asia Stunting Initiative (CASI) — Data Analysis
+# 📊 Central Asia Stunting Initiative (CASI) — Data Analysis
 
 > A comprehensive data cleaning and analysis project on child and maternal nutrition outcomes,
 > conducted in collaboration with **Aga Khan University (AKU)**.
@@ -55,7 +55,7 @@ monitoring stunting, malnutrition, and recovery outcomes in children under five.
 - Generated monthly, quarterly, and yearly date variables
 
 ### 4. 📐 Anthropometric Z-Scores
-- Computed **HAZ** (Height-for-Age), **WAZ** (Weight-for-Age), **WHZ** (Weight-for-Height), and **BMIZ** using WHO standards
+- Computed **HAZ**, **WAZ**, **WHZ**, and **BMIZ** using WHO standards
 - Flagged biologically implausible values for quality control
 
 ### 5. 🏷️ Nutritional Status Classification
@@ -63,7 +63,6 @@ monitoring stunting, malnutrition, and recovery outcomes in children under five.
 - **Underweight** — based on WAZ scores
 - **MAM & SAM** — based on WHZ scores
 - **Low Birth Weight (LBW)** — based on birth weight thresholds
-- **Implausible birth weight** flagging
 
 ### 6. 📈 Longitudinal Tracking
 - Generated visit numbers and total visit counts per child
@@ -80,4 +79,6 @@ monitoring stunting, malnutrition, and recovery outcomes in children under five.
 
 ---
 
-## 📁 Repository Structure
+## 📁 Repository Structure 
+
+ 
